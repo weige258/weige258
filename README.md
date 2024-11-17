@@ -2,7 +2,8 @@
 
 <!--
 **weige258/weige258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+我最常用的编程语言
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=weige258)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
